@@ -1,5 +1,7 @@
 # Dashboard-de-Vendas-Power-BI
 
+![Dashboard](dashboard-vendas.png)
+
 ## Sobre o Projeto
 
 Este projeto consiste na criação de um dashboard interativo de análise de vendas desenvolvido no Power BI com o objetivo de transformar dados comerciais em informações estratégicas para apoio à tomada de decisão.
@@ -52,12 +54,6 @@ Identifica os produtos responsáveis pela maior parcela do faturamento e volume 
 ### Indicadores Comerciais
 
 Acompanhamento dos principais KPIs utilizados para monitoramento do desempenho comercial.
-
----
-
-## Dashboard
-
-![Dashboard](dashboard-vendas.png)
 
 ---
 
