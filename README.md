@@ -57,7 +57,7 @@ Acompanhamento dos principais KPIs utilizados para monitoramento do desempenho c
 
 ## Dashboard
 
-![Dashboard](Análise de Vendas Suplementos.png)
+![Dashboard](An%C3%A1lise%20de%20Vendas%20Suplementos.png)
 
 ---
 
